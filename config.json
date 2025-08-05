@@ -1,0 +1,5 @@
+{
+  "token": "DEIN_DISCORD_BOT_TOKEN",
+  "guildId": "DEINE_GUILD_ID",
+  "logChannelId": "DEIN_LOG_CHANNEL_ID"
+}
